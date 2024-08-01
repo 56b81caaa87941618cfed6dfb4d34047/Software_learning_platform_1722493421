@@ -4,5 +4,6 @@
     "project_description": "an app for learning software",
     "creation_time": "2024-08-01 06:23:41.864820",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "base"
+    "selected_starter_template_id": "base",
+    "frontend_theme_prompt": "The image features a vibrant, surreal space landscape dominated by shades of pink and purple, with a combination of dark mountainous terrain and glowing celestial bodies, creating a dreamy and otherworldly atmosphere."
 }
