@@ -12,5 +12,11 @@
         "content": "Add a form with two radio button and two button one for submit and cancel",
         "timestamp": "01082024062802",
         "message_id": "guest01082024062801"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, working on adding a form with radio buttons and buttons.",
+        "timestamp": "01082024062803",
+        "message_id": "guest01082024062801"
     }
 ]
