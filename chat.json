@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, working on adding a form with radio buttons and buttons.",
+        "message_id": "guest01082024062801",
+        "timestamp": "01082024062803",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Add a form with two radio button and two button one for submit and cancel",
         "message_id": "guest01082024062801",
