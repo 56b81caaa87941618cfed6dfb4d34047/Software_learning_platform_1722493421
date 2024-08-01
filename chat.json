@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the radio buttons to represent a specific question for users, or are they for general options?\", \"option1\": \"Specific question with tailored options\", \"option2\": \"General options without a specific question\"}, {\"question 2\": \"For the submit and cancel buttons, do you have a preferred action after each button is pressed, such as navigating to another page or displaying a message?\", \"option1\": \"Navigate to another page\", \"option2\": \"Display a message\"}], \"input_token_count\": 266, \"output_token_count\": 113, \"time_taken\": \"0:00:03.919533\"}",
+        "message_id": "guest01082024062801",
+        "timestamp": "01082024062807",
+        "component_file_name": "simple_cta_component_1722493462",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, working on adding a form with radio buttons and buttons.",
         "message_id": "guest01082024062801",
