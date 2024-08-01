@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the radio buttons to represent a specific question for users, or are they for general options?\", \"option1\": \"Specific question with tailored options\", \"option2\": \"General options without a specific question\"}, {\"question 2\": \"For the submit and cancel buttons, do you have a preferred action after each button is pressed, such as navigating to another page or displaying a message?\", \"option1\": \"Navigate to another page\", \"option2\": \"Display a message\"}], \"input_token_count\": 266, \"output_token_count\": 113, \"time_taken\": \"0:00:03.919533\"}",
         "timestamp": "01082024062807",
         "message_id": "guest01082024062801"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Progress tracking system for users to gauge their learning journey\", \"checked\": true}, {\"feature\": \"Interactive quizzes at the end of each learning module\", \"checked\": true}, {\"feature\": \"Dark and light mode toggle for user preference\", \"checked\": false}, {\"feature\": \"Bookmarking system for users to save important topics for later review\", \"checked\": true}, {\"feature\": \"Feedback form for users to suggest improvements or report issues\", \"checked\": false}, {\"feature\": \"Certification or badge reward system upon completion of a course or module\", \"checked\": false}], \"input_token_count\": 220, \"output_token_count\": 123, \"time_taken\": \"0:00:04.071644\"}",
+        "timestamp": "01082024062807",
+        "message_id": "guest01082024062801"
     }
 ]
