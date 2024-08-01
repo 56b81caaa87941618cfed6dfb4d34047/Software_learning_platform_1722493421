@@ -2,7 +2,7 @@
 */
 Vue.component("simple_cta_component_1722493462", {
     template: `
-    <section id="cta-component" style="min-height: 270px" class="bg-gradient-to-br from-pink-400 to-purple-600 flex-1 relative overflow-hidden">
+    <section id="cta-component" style="min-height: 390px"  class="bg-gradient-to-br from-pink-400 to-purple-600 flex-1 relative overflow-hidden">
         <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6 relative z-10">
             <div id="cta-content" class="max-w-screen-sm mx-auto text-center backdrop-filter backdrop-blur-lg bg-white bg-opacity-10 rounded-xl p-8 shadow-xl">
                 <div id="cta-title-container" class="flex">
